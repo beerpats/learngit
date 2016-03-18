@@ -1,4 +1,3 @@
-git is distributed version control system
-git is free software
-can you make control
-i don't know how to use it
+git is a distributed version control system
+git is free software distributed under the GPL
+
